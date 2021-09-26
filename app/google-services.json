@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469242069600",
+    "project_id": "hotelpro-162df",
+    "storage_bucket": "hotelpro-162df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469242069600:android:409c60376f41cf3d1f7905",
+        "android_client_info": {
+          "package_name": "com.hotel.hotelpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469242069600-ug67ioopv5dekit6280keu7qnqtb73ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUBH5619KCzCM22VvmWku-6OL-XelnF7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469242069600-ug67ioopv5dekit6280keu7qnqtb73ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

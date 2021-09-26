@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_admin_console.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_dashboard_acrivity.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_hotel_info.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/fragment_notifications.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/fragment_recommendation.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/hotelcard.xml" value="0.1" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/payments.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/methm/Desktop/MAD22222/HotelPro/HotelPro/app/src/main/res/layout/profile_fragment2.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
